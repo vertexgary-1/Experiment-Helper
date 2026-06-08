@@ -11,4 +11,4 @@ Experiment Helper is an iOS and macOS app for quick molecular biology, biochemis
 
 For questions, bug reports, or feedback, please contact:
 
-szdgary@outlook.com
+zdshi at iCloud.com
