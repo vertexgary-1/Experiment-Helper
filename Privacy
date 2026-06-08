@@ -1,0 +1,70 @@
+# Experiment Helper Privacy Policy
+
+Effective Date: June 8, 2026
+
+Experiment Helper is a laboratory utility app for iOS and macOS that provides calculators and lookup tools for molecular biology, biochemistry, and chemical biology workflows.
+
+## Overview
+
+Experiment Helper does not collect, store, sell, or share personal information.
+
+The app does not require an account. The app does not use advertising. The app does not use third-party analytics. The app does not track users across apps or websites.
+
+## Data Collection
+
+Experiment Helper does not collect data from users.
+
+Most calculations are performed locally on the user’s device. These include, but are not limited to:
+
+- Protein property calculations
+- DNA and RNA translation
+- Dilution calculations
+- Dilution factor calculations
+- Transfection calculations
+- Cell seeding calculations
+
+Inputs entered for these local calculations are processed on the device and are not sent to the developer.
+
+## Third-Party Lookup Services
+
+Some features use user-initiated network requests to public scientific databases.
+
+### UniProt
+
+When a user enters a UniProt accession, Experiment Helper sends that accession to UniProt to retrieve protein sequence information.
+
+### PubChem
+
+When a user enters a CAS number or compound identifier, Experiment Helper sends that query to PubChem to retrieve compound information.
+
+Experiment Helper does not operate UniProt or PubChem and does not control their privacy practices. Users should refer to UniProt and PubChem for information about their respective data practices.
+
+## Tracking
+
+Experiment Helper does not track users across apps or websites.
+
+## Advertising
+
+Experiment Helper does not display advertising.
+
+## Analytics
+
+Experiment Helper does not use third-party analytics services.
+
+## Accounts
+
+Experiment Helper does not require users to create an account or sign in.
+
+## Children’s Privacy
+
+Experiment Helper is intended as a general laboratory and educational utility. The app does not knowingly collect personal information from children.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated effective date.
+
+## Contact
+
+For questions about this Privacy Policy, please contact:
+
+szdgary@outlook.com
