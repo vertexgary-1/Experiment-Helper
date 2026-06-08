@@ -1,0 +1,45 @@
+# Experiment Helper Support
+
+Thank you for using Experiment Helper.
+
+Experiment Helper is a laboratory utility app for iOS and macOS that provides calculators and lookup tools for molecular biology, biochemistry, and chemical biology workflows.
+
+## Contact
+
+For questions, bug reports, feature requests, or other support needs, please contact:
+
+szdgary@outlook.com
+
+When reporting a bug, please include:
+
+- The device and operating system version you are using
+- Whether you are using the iOS or macOS version
+- A short description of the issue
+- Steps to reproduce the issue, if possible
+- Screenshots, if helpful
+
+## Features
+
+Experiment Helper includes tools such as:
+
+- Protein property calculation
+- DNA and RNA translation
+- UniProt accession lookup
+- Dilution calculations
+- Dilution factor calculations
+- Transfection calculations
+- Cell seeding calculations
+- CAS number lookup using PubChem
+
+## Third-Party Data Sources
+
+Some lookup features use public scientific databases:
+
+- UniProt is used for user-initiated protein accession lookups.
+- PubChem is used for user-initiated CAS number and compound lookups.
+
+Experiment Helper does not operate UniProt or PubChem.
+
+## Privacy
+
+Please review the Experiment Helper Privacy Policy for information about data practices.
